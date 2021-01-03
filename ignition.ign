@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.0.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDbMPGGgAp5//bNtOcLnnJe5mdTCe9B2SJvKM1kubcmE53zrhoctl6Ktw8WuGH1s+g8sNAHXDIGg9LO3iJ5hyJzMUg/WIS7FlGDYZ71kjL46VhG6vc+DiZUJyHqaKqffm+d+iHecmvdPUw5PCQx5XHpXcjcZZ8Uyx8lb4HC7ndhjgDqXtXngCyLbCO0wn+57EfRUnUvOPAW9GKEyEvN+coLwGxgqX7UhTNkAdJ+XF97MlFsdQVzQoSp8Vh0D3wsWyDbDxvS072QVx9VbVc3JWkwmZwuyshC7cgv5XO06Z/wvS0h4EVdknaJlIPPJbczvGZXYfsxL0c0ARxPyN0ZlwHyemk5AxuyClrJnBisD9+7fHcRltWkWF7yHBaJZ7KEP7PBdXCQ9jGFKWMpALEfjQLiyY9w6E1F7q4Oqoej9jG4As+e5MocetN4xdMVWnoLTNfRWSwJqFJTWm1Xf8hFzgsY70/gfBtLM/TtoQ6ZIPAFJWZGIimmYf4B59SArUkPLpP0qTSaJ5U/ww2yY9mpllQ+w1FJPHyNxWo7lm4BEnOv2tz1si5+xybNUwYFnYY6uQNI3CMb8npiuOP2CE1UpLEhJt8pWrOpoAZ9nBwNvGh7TTosV83Tlg0UV6/qqjuPp5dS8q9kxL+zYo/DBU5z1PkW3mp3Uw9SnWhj9zInIEKyFw== iPhone"
+        ]
+      }
+    ]
+  }
+}
