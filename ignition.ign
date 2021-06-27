@@ -7,7 +7,14 @@
       {
         "name": "core",
         "sshAuthorizedKeys": [
-          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDuCfDPqAfPm/i679U9MM8OHVP2bMywh+ShyujTuLd76Ycwy0L+EN35xA9PLwAs7nYEg92nA59WX7thitEHYlu4O8FwgBwoewrS64Le74XYg9g5QSNVzq4/WpOfX/SCeZj8tGbZHZR86SaCcqN9UVO5uIvKvG+6fOgBmkFd87tAwJ2MTbrJwHImCPIIUOMLJVILD8EZ8JQdJ9eh+PButKkSa9yZxCRcullNAeSubwHOxLRupMPaPh6ubUH1t9BLQ4o42anzWuCleccH9vkPahd58IMOeAiYohxxdb3HN+qiZ2gKa7jaDGEjQbVZjZizia/XsODpFSAWxx/SwWdGHqbR dhillman@hobbysumo.net"
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC7OXzhjuSYnApEFVwtAGcZF4Gh2CV4CMuSubYnQ3sWW
+X3sBCUxChQ2/SRoPaeu/wchO6YCUDi6W9zVrkq6b73N4xkR4/FmXMBuhk7+AXJ2O7UQOBICQGKxkBSfff
+bDrdiFOQp4y24B7AXZaWxl0NlcYkkf1hevCacDzRPjdyLrERd0kh7UaIWiIKbOh7vZg4NERebArf5Ivpp
+XhM0fe7AZfU3XLLRH+WloW8DUm4cKfJuIwPu6WppO2b8IuQsgOoVL+cqotr/sTHOHbT7oJREgA0rYvn++
+aiUOz++Y2Di/AC66DyNRMFS28EjorfuDxDYG+iF5DmVSoT04iaI3jgrnJEr6AEa5gB0OmWEJh5mfiQGyy
+R5G2GcPebjABPazJx/PIWg09kGY9PbzYurEZ3jidfzwj6EvzgbRhI4ZnF4CqEV/UpiW/MNu2N7aup+puu
+vTi3/pJDlXKOaCJ+gXYTCLakS6AjrueAadG6IZ5gOkAudgYbum/bvpOskzXS4gVScMDvai0= sysadmii
+n@fedora"
         ]
       }
     ]
